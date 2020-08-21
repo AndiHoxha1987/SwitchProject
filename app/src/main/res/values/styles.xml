@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BrandedSwitch1" parent="Theme.AppCompat.Light">
+        <!-- active thumb & track color (30% transparency) -->
+        <item name="colorControlActivated">#e6e600</item>
+    </style>
+
+    <style name="BrandedSwitch2" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorControlActivated">#e6e600</item>
+    </style>
+
+    <style name="BrandedSwitch3" parent="Theme.AppCompat.Light">
+        <!-- active thumb & track color (30% transparency) -->
+        <item name="colorControlActivated">#cc0000</item>
+    </style>
+
+    <style name="BrandedSwitch7" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">#cc0000</item>
+    </style>
+
+    <style name="BrandedSwitch8" parent="AppTheme">
+        <item name="colorAccent">#39ac39</item>
+    </style>
+
+    <style name="BrandedSwitch9" parent="AppTheme">
+        <item name="colorAccent">#39ac39</item>
+    </style>
+
+    <style name="BrandedSwitch10" parent="AppTheme">
+        <item name="colorAccent">#39ac39</item>
+    </style>
+
+    <style name="BrandedSwitch11" parent="AppTheme">
+        <item name="colorAccent">#39ac39</item>
+    </style>
+
+    <style name="BrandedSwitch12" parent="AppTheme">
+        <item name="colorAccent">#39ac39</item>
+    </style>
+
+    <style name="BrandedSwitch13" parent="AppTheme">
+        <item name="colorAccent">#39ac39</item>
+    </style>
+
+</resources>
